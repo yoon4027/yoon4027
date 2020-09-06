@@ -6,7 +6,7 @@
 
 - 🌳 I' currently Learning Java, Typescript!
 - ⚽ Goals: Becoming a better developer to get a job
-- 🚀 Website [https://ticeer.me]
+- 🚀 [Website][https://ticeer.me]
 
 
 ### Connect with me:
