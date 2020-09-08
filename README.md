@@ -1,6 +1,6 @@
 👋
 
-[![Website](https://img.shields.io/website?label=ticeer.me&style=for-the-badge&url=https%3A%2F%2Fticeer.me)](https://tceer.me.com)
+[![Website](https://img.shields.io/website?label=ticeer.me&style=for-the-badge&url=https%3A%2F%2Fticeer.me)](https://tceer.me)
 
 ## 
 
