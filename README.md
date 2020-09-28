@@ -4,8 +4,9 @@
 
 ## 
 
-- 🌳 I' currently Learning Java, Typescript!
+- 🌳 I am currently Learning Java, Typescript!
 - ⚽ Goals: Becoming a better developer to get a job
+- ⚡ Making and selling discord bots
 - 🚀 [website][website]
 
 
