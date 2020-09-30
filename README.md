@@ -41,7 +41,7 @@
 
 <details>
   <summary>🔨 My most used languages</summary>
-  <img align="left" alt="Yoon's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoon4027&layout=compact&theme=radical" />
+  <img align="right" alt="Yoon's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoon4027&layout=compact&theme=radical" />
   
 </details>
 
