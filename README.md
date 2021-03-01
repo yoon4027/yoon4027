@@ -4,7 +4,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=yoon4027&color=blue)](https://github.com/yoon4027)
 ## 
 
-- 🌳 I am currently Learning Java, Typescript!
+- 🌳 I am currently Learning Java, Kotlin (😋), Typescript!
 - ⚽ Goals: Becoming a better developer to get a job
 - ⚡ Making and selling discord bots
 - 🚀 [website][website]
