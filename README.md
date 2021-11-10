@@ -5,8 +5,7 @@
 ## 
 
 - 🌳 I am currently Learning Java, Kotlin (😋), Typescript!
-- ⚽ Goals: Becoming a better developer to get a job
-- ⚡ Making and selling discord bots
+- ⚽ Goals: Becoming a better developer to get a jobs
 - 🚀 [website][website]
 
 
