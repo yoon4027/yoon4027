@@ -4,7 +4,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=yoon4027&color=blue)](https://github.com/yoon4027)
 ## 
 
-- 🌳 I am currently Learning Java, Kotlin (😋), Typescript!
+- 🌳 I am currently Learning Rust, Zig, Go, C and Kotlin
 - ⚽ Goals: Becoming a better developer to get a jobs
 - 🚀 [website][website]
 
