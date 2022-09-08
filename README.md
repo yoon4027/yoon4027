@@ -44,6 +44,6 @@
   
 </details>
 
-[website]: https://ticeer.me
+[website]: https://yoon.dev
 [youtube]: https://youtube.com/watch?v=dQw4w9WgXcQ
 
