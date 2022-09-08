@@ -1,6 +1,6 @@
 👋
 
-[![Website](https://img.shields.io/website?label=ticeer.me&style=for-the-badge&url=https%3A%2F%2Fticeer.me)](https://ticeer.me)
+[![Website](https://img.shields.io/website?label=yoon.dev&style=for-the-badge&url=https%3A%2F%2Fyoon.dev)](https://yoon.dev)
 [![Profile Views](https://komarev.com/ghpvc/?username=yoon4027&color=blue)](https://github.com/yoon4027)
 ## 
 
@@ -11,7 +11,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="ticeer.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="yoon.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="yoonusplays | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 <br />
 
